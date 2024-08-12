@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My Notes</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://rlimub.github.io/posts/</link>
     <description>Recent content in Posts on My Notes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Aug 2024 09:00:05 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rlimub.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writing to Learn</title>
-      <link>http://localhost:1313/posts/writing-to-learn/</link>
+      <link>https://rlimub.github.io/posts/writing-to-learn/</link>
       <pubDate>Tue, 13 Aug 2024 09:00:05 +1000</pubDate>
-      <guid>http://localhost:1313/posts/writing-to-learn/</guid>
+      <guid>https://rlimub.github.io/posts/writing-to-learn/</guid>
       <description>Writing to learn is an effective but under-utilised tool to clarify our thoughts and sharpen our writings. This is the thesis of William Zissner&amp;rsquo;s book Writing to Learn.</description>
     </item>
   </channel>
